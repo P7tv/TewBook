@@ -119,8 +119,8 @@ ${context}
           content: userMessageText,
         }
       ], {
-        temperature: 0.7,
-        maxTokens: 2048,
+        temperature: 0.6,
+        maxTokens: 8192,
         topP: 0.9,
         repetitionPenalty: 1.1,
       })
