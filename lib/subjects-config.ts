@@ -24,6 +24,12 @@ export const subjects: Subject[] = [
         description: "เอกสารประกอบการสอนชีววิทยา week 1",
         pdfPath: "/documents/biology/Unit2_1_handout-890499-17540600024444.pdf",
       },
+      {
+        id: "bio-week2",
+        name: "ชีววิทยา สัปดาห์ที่ 2",
+        description: "เอกสารประกอบการสอนชีววิทยา week 2",
+        pdfPath: "/documents/biology/Unit2_2_handout-890499-17542421379645.pdf",
+      },
     ],
   },
   {
