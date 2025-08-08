@@ -45,4 +45,17 @@ export const subjects: Subject[] = [
       },
     ],
   },
+  {
+    id: "Cal",
+    name: "Cal",
+    description: "วิชาแคลเบื้องต้น",
+    contents: [
+      {
+        id: "Cal-01",
+        name: "แคล วีคที่ 1",
+        description: "เอกสารประกอบการสอนแคล บทที่ 1",
+        pdfPath: "/documents/calculus/lecture1_posted_(11)-301498-17543030544013.pdf",
+      },
+    ],
+  },
 ]
